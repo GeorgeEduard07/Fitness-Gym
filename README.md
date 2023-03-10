@@ -1,2 +1,2 @@
 # Fitness-Gym
-Crearea unui Hobby
+Crearea unui hobby
